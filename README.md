@@ -6,10 +6,10 @@
   <br/><br/>
 
   <!-- أزرار التواصل -->
-  <a href="mailto:your_email@gmail.com">
+  <a href="mailto:mohannadalwhbani@gmail.com">
     <img src="https://img.shields.io/badge/EMAIL-CONTACT%20ME-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
-  <a href="https://wa.me/967XXXXXXXXX">
+  <a href="https://wa.me/967739754326">
     <img src="https://img.shields.io/badge/WHATSAPP-CHAT%20NOW-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" />
   </a>
   <a href="https://www.linkedin.com/">
@@ -24,7 +24,7 @@
 
 ### 📋 ملخص مهني
 
-**المهندس مهند | مهندس تكنولوجيا المعلومات**
+**المهندس مهند الوهباني | مهندس تكنولوجيا المعلومات**
 
 متعدد المهارات ، شغوف بربط تطوير البرمجيات ببنية الشبكات التحتية. تكمن خبرتي في بناء تطبيقات ويب/جوال قابلة للتوسع، مع ضمان أمان وكفاءة بنية الخادم والشبكة الأساسية.
 
